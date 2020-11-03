@@ -1,0 +1,46 @@
+Change Pin Designator/Name:  Old Designator=J1A-2 Old Name=2 New Designator =8 New Name=8
+Change Pin Designator/Name:  Old Designator=J1A-4 Old Name=4 New Designator =9 New Name=9
+Change Pin Designator/Name:  Old Designator=J1A-5 Old Name=5 New Designator =10 New Name=10
+Change Pin Designator/Name:  Old Designator=J1A-7 Old Name=7 New Designator =11 New Name=11
+Change Pin Designator/Name:  Old Designator=J1A-8 Old Name=8 New Designator =5 New Name=5
+Change Pin Designator/Name:  Old Designator=J1B-10 Old Name=10 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=J1B-13 Old Name=13 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=J1B-15 Old Name=15 New Designator =7 New Name=7
+Change Pin Designator/Name:  Old Designator=U10D-41 Old Name=IO/DIFFIO_TX_RX_B3p DIFFOUT_B3p New Designator =IO/DIFFIO_TX_RX_B49n DIFFOUT_B49n New Name=65
+Change Pin Designator/Name:  Old Designator=U10D-42 Old Name=IO/DIFFIO_TX_RX_B5n DIFFOUT_B5n New Designator =IO/DIFFIO_TX_RX_B3p DIFFOUT_B3p New Name=41
+Change Pin Designator/Name:  Old Designator=U10D-43 Old Name=IO/DIFFIO_TX_RX_B5p DIFFOUT_B5p New Designator =IO/DIFFIO_TX_RX_B5n DIFFOUT_B5n New Name=42
+Change Pin Designator/Name:  Old Designator=U10D-46 Old Name=IO/DIFFIO_TX_RX_B15n DIFFOUT_B15n New Designator =IO/DIFFIO_TX_RX_B5p DIFFOUT_B5p New Name=43
+Change Pin Designator/Name:  Old Designator=U10D-49 Old Name=IO/DIFFIO_TX_RX_B15p DIFFOUT_B15p New Designator =IO/DIFFIO_TX_RX_B15n DIFFOUT_B15n New Name=46
+Change Pin Designator/Name:  Old Designator=U10D-50 Old Name=IO New Designator =IO/DIFFIO_TX_RX_B15p DIFFOUT_B15p New Name=49
+Change Pin Designator/Name:  Old Designator=U10D-51 Old Name=IO/CLK6n  DIFFIO_TX_RX_B18n DIFFOUT_B18n New Designator =IO New Name=50
+Change Pin Designator/Name:  Old Designator=U10D-52 Old Name=IO/CLK6p  DIFFIO_TX_RX_B18p DIFFOUT_B18p New Designator =IO/DIFFIO_TX_RX_B49p DIFFOUT_B49p New Name=66
+Change Pin Designator/Name:  Old Designator=U10D-53 Old Name=IO/CLK7n  DIFFIO_TX_RX_B20n DIFFOUT_B20n New Designator =IO/CLK6n  DIFFIO_TX_RX_B18n DIFFOUT_B18n New Name=51
+Change Pin Designator/Name:  Old Designator=U10D-55 Old Name=IO/CLK7p  DIFFIO_TX_RX_B20p DIFFOUT_B20p New Designator =IO/CLK6p  DIFFIO_TX_RX_B18p DIFFOUT_B18p New Name=52
+Change Pin Designator/Name:  Old Designator=U10E-57 Old Name=IO/VREFB4N0 New Designator =IO/CLK7n  DIFFIO_TX_RX_B20n DIFFOUT_B20n New Name=53
+Change Pin Designator/Name:  Old Designator=U10E-58 Old Name=IO New Designator =IO/CLK7p  DIFFIO_TX_RX_B20p DIFFOUT_B20p New Name=55
+Change Pin Designator/Name:  Old Designator=U10E-60 Old Name=IO/DIFFIO_TX_RX_B39n DIFFOUT_B39n New Designator =IO/VREFB4N0 New Name=57
+Change Pin Designator/Name:  Old Designator=U10E-61 Old Name=IO/DIFFIO_TX_RX_B39p DIFFOUT_B39p New Designator =IO New Name=58
+Change Pin Designator/Name:  Old Designator=U10E-62 Old Name=IO New Designator =IO/DIFFIO_TX_RX_B39n DIFFOUT_B39n New Name=60
+Change Pin Designator/Name:  Old Designator=U10E-63 Old Name=IO/DIFFIO_TX_RX_B45n DIFFOUT_B45n New Designator =IO/DIFFIO_TX_RX_B45p DIFFOUT_B45p New Name=64
+Change Pin Designator/Name:  Old Designator=U10E-64 Old Name=IO/DIFFIO_TX_RX_B45p DIFFOUT_B45p New Designator =IO/DIFFIO_TX_RX_B39p DIFFOUT_B39p New Name=61
+Change Pin Designator/Name:  Old Designator=U10E-65 Old Name=IO/DIFFIO_TX_RX_B49n DIFFOUT_B49n New Designator =IO New Name=62
+Change Pin Designator/Name:  Old Designator=U10E-66 Old Name=IO/DIFFIO_TX_RX_B49p DIFFOUT_B49p New Designator =IO/DIFFIO_TX_RX_B45n DIFFOUT_B45n New Name=63
+Change Pin Designator/Name:  Old Designator=U10H-110 Old Name=IO/DIFFIO_RX_T1p DIFFOUT_T1p New Designator =IO/DIFFIO_RX_T42p DIFFOUT_T42p New Name=123
+Change Pin Designator/Name:  Old Designator=U10H-111 Old Name=IO/DIFFIO_RX_T1n DIFFOUT_T1n New Designator =IO/DEV_CLRn DIFFIO_RX_T42n DIFFOUT_T42n New Name=124
+Change Pin Designator/Name:  Old Designator=U10H-117 Old Name=IO/DIFFIO_RX_T20p DIFFOUT_T20p New Designator =IO/DEV_OE New Name=125
+Change Pin Designator/Name:  Old Designator=U10H-118 Old Name=IO/DIFFIO_RX_T20n DIFFOUT_T20n New Designator =IO/VREFB8N0 New Name=126
+Change Pin Designator/Name:  Old Designator=U10H-119 Old Name=IO/DIFFIO_RX_T30p DIFFOUT_T30p New Designator =IO/CONFIG_SEL New Name=128
+Change Pin Designator/Name:  Old Designator=U10H-120 Old Name=IO/DIFFIO_RX_T30n DIFFOUT_T30n New Designator =IO/DIFFIO_RX_T45p DIFFOUT_T45p New Name=127
+Change Pin Designator/Name:  Old Designator=U10I-123 Old Name=IO/DIFFIO_RX_T42p DIFFOUT_T42p New Designator =IO/DIFFIO_RX_T45n DIFFOUT_T45n New Name=129
+Change Pin Designator/Name:  Old Designator=U10I-124 Old Name=IO/DEV_CLRn DIFFIO_RX_T42n DIFFOUT_T42n New Designator =IO/DIFFIO_RX_T46p DIFFOUT_T46p New Name=131
+Change Pin Designator/Name:  Old Designator=U10I-125 Old Name=IO/DEV_OE New Designator =IO/DIFFIO_RX_T1p DIFFOUT_T1p New Name=110
+Change Pin Designator/Name:  Old Designator=U10I-126 Old Name=IO/VREFB8N0 New Designator =IO/DIFFIO_RX_T1n DIFFOUT_T1n New Name=111
+Change Pin Designator/Name:  Old Designator=U10I-127 Old Name=IO/DIFFIO_RX_T45p DIFFOUT_T45p New Designator =IO/DIFFIO_RX_T46n DIFFOUT_T46n New Name=132
+Change Pin Designator/Name:  Old Designator=U10I-128 Old Name=IO/CONFIG_SEL New Designator =IO/DIFFIO_RX_T20p DIFFOUT_T20p New Name=117
+Change Pin Designator/Name:  Old Designator=U10I-129 Old Name=IO/DIFFIO_RX_T45n DIFFOUT_T45n New Designator =IO/DIFFIO_RX_T48p DIFFOUT_T48p New Name=133
+Change Pin Designator/Name:  Old Designator=U10I-131 Old Name=IO/DIFFIO_RX_T46p DIFFOUT_T46p New Designator =IO/CRC_ERROR DIFFIO_RX_T48n DIFFOUT_T48n New Name=134
+Change Pin Designator/Name:  Old Designator=U10I-132 Old Name=IO/DIFFIO_RX_T46n DIFFOUT_T46n New Designator =IO New Name=135
+Change Pin Designator/Name:  Old Designator=U10I-133 Old Name=IO/DIFFIO_RX_T48p DIFFOUT_T48p New Designator =IO/DIFFIO_RX_T20n DIFFOUT_T20n New Name=118
+Change Pin Designator/Name:  Old Designator=U10I-134 Old Name=IO/CRC_ERROR DIFFIO_RX_T48n DIFFOUT_T48n New Designator =IO/nSTATUS DIFFIO_RX_T50p DIFFOUT_T50p New Name=136
+Change Pin Designator/Name:  Old Designator=U10I-135 Old Name=IO New Designator =IO/DIFFIO_RX_T30p DIFFOUT_T30p New Name=119
+Change Pin Designator/Name:  Old Designator=U10I-136 Old Name=IO/nSTATUS DIFFIO_RX_T50p DIFFOUT_T50p New Designator =IO/DIFFIO_RX_T30n DIFFOUT_T30n New Name=120

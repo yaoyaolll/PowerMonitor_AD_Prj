@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NRST Pin=U10-30
+Removed Pin From Net: NetName=A22 Pin=U10-117
+Removed Pin From Net: NetName=A23 Pin=U10-118
+Removed Pin From Net: NetName=A24 Pin=U10-119
+Added Pin To Net: NetName=NRST Pin=U10-117
+Added Pin To Net: NetName=A22 Pin=U10-118
+Added Pin To Net: NetName=A23 Pin=U10-119
+Added Pin To Net: NetName=A24 Pin=U10-120

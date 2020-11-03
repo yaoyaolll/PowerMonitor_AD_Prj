@@ -1,0 +1,30 @@
+Added Component: Designator=90V_IN(TERMPOWER)
+Added Component: Designator=GND(TERMPOWER)
+Added Component: Designator=R50(0805R)
+Added Component: Designator=R51(0805R)
+Added Component: Designator=R52(0805R)
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=3V3 Pin=R50-2
+Added Pin To Net: NetName=3V3 Pin=R51-2
+Added Pin To Net: NetName=3V3 Pin=R52-2
+Added Pin To Net: NetName=Net90V_IN_1 Pin=90V_IN-1
+Added Pin To Net: NetName=Net90V_IN_1 Pin=R5-2
+Added Pin To Net: NetName=Net90V_IN_1 Pin=R48-2
+Added Net: Name=Net90V_IN_1
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_1 Pin=U10-117
+Added Net: Name=NetR50_1
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Pin To Net: NetName=NetR51_1 Pin=U10-120
+Added Net: Name=NetR51_1
+Added Pin To Net: NetName=NetR52_1 Pin=R52-1
+Added Pin To Net: NetName=NetR52_1 Pin=U10-138
+Added Net: Name=NetR52_1
+Added Member To Class: ClassName=TOP Member=Component 90V_IN InOut
+Added Member To Class: ClassName=TOP Member=Component GND InOut
+Added Member To Class: ClassName=PMB_FPGA Member=Component R50 10K
+Added Member To Class: ClassName=PMB_FPGA Member=Component R51 10K
+Added Member To Class: ClassName=PMB_FPGA Member=Component R52 10K

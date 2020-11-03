@@ -1,0 +1,65 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\lvjun\Desktop\PowerMonitorBoard\PowerMonitorBoard\PMC_liuyao.PcbDoc
+Date     : 2020/11/3
+Time     : 10:22:34
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+   Violation between Via (5428.401mil,772.598mil) Top to Bottom and 
+                     Pad U8-15(5378mil,765mil)  Top
+   Violation between Via (570mil,1610mil) Top to Bottom and 
+                     Pad C3-1(655mil,1535mil)  Bottom
+   Violation between Via (2628mil,804mil) Top to Bottom and 
+                     Pad C66-1(2587.598mil,804mil)  Bottom
+   Violation between Via (3327mil,537mil) Top to Bottom and 
+                     Pad C61-1(3292.402mil,500mil)  Bottom
+   Violation between Via (975mil,728mil) Top to Bottom and 
+                     Pad C10-1(975mil,687.598mil)  Bottom
+   Violation between Via (2934mil,1212mil) Top to Bottom and 
+                     Pad R50-2(2935mil,1252.401mil)  Bottom
+   Violation between Via (3179.29mil,1376.29mil) Top to Bottom and 
+                     Via (3156mil,1384mil) Top to Bottom
+Rule Violations :7
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint (130mil > 100mil) : Pad Free-3(5314.961mil,196.85mil)  Multi-Layer
+   Violation between Hole Size Constraint (130mil > 100mil) : Pad Free-2(5314.961mil,1889.764mil)  Multi-Layer
+   Violation between Hole Size Constraint (130mil > 100mil) : Pad Free-1(196.85mil,1889.764mil)  Multi-Layer
+   Violation between Hole Size Constraint (130mil > 100mil) : Pad Free-0(196.85mil,196.85mil)  Multi-Layer
+Rule Violations :4
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=100mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 11
+Time Elapsed        : 00:00:02

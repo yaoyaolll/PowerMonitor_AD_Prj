@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=FPGA_JTAG NewDesignator=J2
+Change Component Designator: OldDesignator=SW-DP NewDesignator=P1

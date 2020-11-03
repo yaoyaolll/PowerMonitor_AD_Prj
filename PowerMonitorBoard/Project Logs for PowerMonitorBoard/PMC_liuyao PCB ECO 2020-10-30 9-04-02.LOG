@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PC4_REV Pin=U10-123
+Removed Pin From Net: NetName=PC5_REV Pin=U10-124
+Added Pin To Net: NetName=PC5_REV Pin=U10-123
+Added Pin To Net: NetName=PC4_REV Pin=U10-124

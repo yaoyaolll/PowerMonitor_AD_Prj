@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=D4 Pin=U10-43
+Removed Pin From Net: NetName=D5 Pin=U10-46
+Removed Pin From Net: NetName=D6 Pin=U10-49
+Removed Pin From Net: NetName=D7 Pin=U10-50
+Removed Pin From Net: NetName=D9 Pin=U10-53
+Removed Pin From Net: NetName=D10 Pin=U10-55
+Removed Pin From Net: NetName=D11 Pin=U10-58
+Removed Pin From Net: NetName=D12 Pin=U10-60
+Added Pin To Net: NetName=D12 Pin=U10-43
+Added Pin To Net: NetName=D11 Pin=U10-46
+Added Pin To Net: NetName=D10 Pin=U10-49
+Added Pin To Net: NetName=D9 Pin=U10-50
+Added Pin To Net: NetName=D7 Pin=U10-53
+Added Pin To Net: NetName=D6 Pin=U10-55
+Added Pin To Net: NetName=D5 Pin=U10-58
+Added Pin To Net: NetName=D4 Pin=U10-60

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NOE Pin=U10-69
+Removed Pin From Net: NetName=NWE Pin=U10-70
+Added Pin To Net: NetName=NWE Pin=U10-69
+Added Pin To Net: NetName=NOE Pin=U10-70
