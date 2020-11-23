@@ -1,4 +1,4 @@
-Record=TopLevelDocument|FileName=TOP.SchDoc
-Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=PMB_ACQ|SchDesignator=PMB_ACQ|FileName=ACQ.SchDoc|SymbolType=Normal|RawFileName=ACQ.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=PMB_FPGA|SchDesignator=PMB_FPGA|FileName=FPGA.SchDoc|SymbolType=Normal|RawFileName=FPGA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=PMB_STM32|SchDesignator=PMB_STM32|FileName=STM32.SchDoc|SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=TOP.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=PMB_ACQ|SchDesignator=PMB_ACQ|FileName=ACQ.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=ACQ.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=PMB_FPGA|SchDesignator=PMB_FPGA|FileName=FPGA.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=FPGA.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TOP.SchDoc|Designator=PMB_STM32|SchDesignator=PMB_STM32|FileName=STM32.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetR19_1 Pin=U10-25
+Removed Pin From Net: NetName=NetR17_1 Pin=U10-26
+Removed Pin From Net: NetName=NetR16_1 Pin=U10-27
+Removed Pin From Net: NetName=NetR31_1 Pin=U10-30
+Removed Pin From Net: NetName=CLK_IN Pin=U10-140
+Added Component: Designator=CLK_IN(TPA)
+Added Pin To Net: NetName=CLK_IN Pin=CLK_IN-1
+Added Pin To Net: NetName=NetR31_1 Pin=U10-6
+Added Pin To Net: NetName=CLK_IN Pin=U10-25
+Added Pin To Net: NetName=GND Pin=U10-26
+Added Pin To Net: NetName=NetR19_1 Pin=U10-30
+Added Pin To Net: NetName=NetR17_1 Pin=U10-32
+Added Pin To Net: NetName=NetR16_1 Pin=U10-33
+Added Member To Class: ClassName=PMB_FPGA Member=Component CLK_IN TP
