@@ -1,0 +1,10 @@
+Added Component: Designator=USB1(MICRO-USB-SMD_5P-P0.65-H-F_C10418)
+Added Pin To Net: NetName=5VD Pin=USB1-1
+Added Pin To Net: NetName=USB_D- Pin=USB1-2
+Added Pin To Net: NetName=USB_D+ Pin=USB1-3
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Pin To Net: NetName=GND Pin=USB1-5
+Added Member To Class: ClassName=TOP Member=Component USB1 USB-B(Micro)

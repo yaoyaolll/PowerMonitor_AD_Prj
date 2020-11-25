@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\X-Cube-AI\PowerMonitorBoard\PMC_liuyao.PcbDoc
-Date     : 2020/11/23
-Time     : 10:54:10
+Date     : 2020/11/24
+Time     : 9:22:46
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -32,13 +32,7 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (0.78mil < 1mil) Between Pad C10-1(975mil,687.598mil) on Bottom And Via (975mil,728mil) from Top to Bottom [Bottom Solder] Mask Sliver [0.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.656mil < 1mil) Between Pad C61-1(3292.402mil,500mil) on Bottom And Via (3327mil,537mil) from Top to Bottom [Bottom Solder] Mask Sliver [0.656mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.78mil < 1mil) Between Pad C66-1(2587.598mil,804mil) on Bottom And Via (2628mil,802mil) from Top to Bottom [Bottom Solder] Mask Sliver [0.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.78mil < 1mil) Between Pad R50-2(2935mil,1252.401mil) on Bottom And Via (2934mil,1212mil) from Top to Bottom [Bottom Solder] Mask Sliver [0.78mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.064mil < 1mil) Between Pad U8-15(5378mil,765mil) on Top And Via (5428.401mil,772.598mil) from Top to Bottom [Top Solder] Mask Sliver [0.064mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (0.533mil < 1mil) Between Via (3156mil,1384mil) from Top to Bottom And Via (3179.29mil,1376.29mil) from Top to Bottom [Top Solder] Mask Sliver [0.533mil] / [Bottom Solder] Mask Sliver [0.533mil]
-Rule Violations :6
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
 Rule Violations :0
@@ -53,6 +47,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 10
+Violations Detected : 4
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01

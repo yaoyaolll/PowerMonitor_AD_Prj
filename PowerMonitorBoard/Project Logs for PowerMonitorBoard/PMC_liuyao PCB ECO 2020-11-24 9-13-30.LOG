@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=USB1 Old Footprint=USB-micro_A New Footprint=MICRO-USB-SMD_5P-P0.65-H-F_C10418
+Added Member To Class: ClassName=TOP Member=Component USB1 USB-B(Micro)
